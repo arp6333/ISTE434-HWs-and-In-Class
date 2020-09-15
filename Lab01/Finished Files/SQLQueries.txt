@@ -1,0 +1,13 @@
+SELECT Customer.name, Customer.addr1 as 'address 1', Customer.addr2 as 'address 2', Customer.city, Customer.state, Customer.zip, InvoiceHdr.invoiceID as 'invoice id', InvoiceHdr.salesDate as 'sales date', Product.description as 'product description', InvoiceDtl.amt as 'amount', InvoiceDtl.qty as 'quantity'
+FROM Customer
+INNER JOIN InvoiceHdr ON Customer.customerID=InvoiceHdr.customerID
+INNER JOIN InvoiceDtl ON InvoiceHdr.invoiceID=InvoiceDtl.invoiceID
+INNER JOIN Product ON InvoiceDtl.prodID=Product.prodID
+WHERE Customer.name='Setron';
+
+SELECT InvoiceDtl.amt as 'total sales amount', FORMAT(InvoiceHdr.salesDate, 'yyyy') as 'year', BusinessUnit.abbrev as 'business unit abbreviation'
+FROM InvoiceDtl
+INNER JOIN InvoiceHdr ON InvoiceDtl.invoiceID=InvoiceHdr.invoiceID
+INNER JOIN Product ON InvoiceDtl.prodID=Product.prodID
+INNER JOIN ProdType ON Product.prodTypeID=ProdType.prodTypeID
+INNER JOIN Business Unit ON ProdType.BUID=BusinessUnit.BUID
