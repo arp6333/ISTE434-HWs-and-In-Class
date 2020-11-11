@@ -1,0 +1,44 @@
+salesBy,prodid_sk,prodid,prodDescription,price1,price2,unitCost,supplierName,supplierAddr1,supplierAddr2,supplierCity,supplierState,supplierZipCode,TYPEDESCRIPTION,BUID
+0,0,0,,0,0,0,,,,,,,,D
+PEC,5,5,Flake Photo Equip.,232.3,204.4,170,,,,,,,Photo Equip.,A
+PEC,12,12,Chromium Photo Equip.,565.5,457.5,326,,,,,,,Photo Equip.,A
+PEC,26,26,Simulations Photo Equip.,318.4,255.7,193,,,,,,,Photo Equip.,A
+PEC,27,27,Vastest Photo Equip.,498.1,442.3,294,,,,,,,Photo Equip.,A
+PEC,43,43,Bomber Photo Equip.,461.3,400.4,336,,,,,,,Photo Equip.,A
+PEC,2,2,Planetesimal Manufacturing Equip,347.3,307,250,,,,,,,Manufacturing Equip.,A
+PEC,4,4,Miniaturizing Manufacturing Equip,456.2,379.6,325,,,,,,,Manufacturing Equip.,A
+PEC,7,7,Bandage Manufacturing Equip,298,267,234,,,,,,,Manufacturing Equip.,A
+PEC,11,11,Sailors Manufacturing Equip,340.5,290.4,235,,,,,,,Manufacturing Equip.,A
+PEC,16,16,Insensitivity Manufacturing Equip,200.7,180.4,117,,,,,,,Manufacturing Equip.,A
+PEC,19,19,Habitually Manufacturing Equip,509.3,419.1,354,,,,,,,Manufacturing Equip.,A
+PEC,20,20,Courthouses Manufacturing Equip,285.6,243.6,182,,,,,,,Manufacturing Equip.,A
+PEC,22,22,Extinguisher Manufacturing Equip,120.4,98.4,65,,,,,,,Manufacturing Equip.,A
+PEC,23,23,Occlusion Manufacturing Equip,199.9,177.3,72,,,,,,,Manufacturing Equip.,A
+PEC,30,30,Suing Manufacturing Equip,482.2,426.7,329,,,,,,,Manufacturing Equip.,A
+PEC,33,33,Pervasively Manufacturing Equip,374.1,334.9,303,,,,,,,Manufacturing Equip.,A
+PEC,34,34,Septembers Manufacturing Equip,584.3,523,217,,,,,,,Manufacturing Equip.,A
+PEC,35,35,Birthdays Manufacturing Equip,196.6,173.2,115,,,,,,,Manufacturing Equip.,A
+PEC,37,37,Escape Manufacturing Equip,584.4,523.6,463,,,,,,,Manufacturing Equip.,A
+PEC,39,39,Disallow Manufacturing Equip,165.2,145.9,97,,,,,,,Manufacturing Equip.,A
+PEC,1,1,Enumerator Polishing Equip.,165,142.5,120,,,,,,,Polishing Equip.,A
+PEC,6,6,Denigrating Polishing Equip.,566,454.5,402,,,,,,,Polishing Equip.,A
+PEC,8,8,Chalmers Polishing Equip.,289.2,242.6,215,,,,,,,Polishing Equip.,A
+PEC,15,15,Syntax Polishing Equip.,226.7,190.9,123,,,,,,,Polishing Equip.,A
+PEC,18,18,Allis Polishing Equip.,201.8,176.3,112,,,,,,,Polishing Equip.,A
+PEC,21,21,Weeks Polishing Equip.,198.8,174.2,151,,,,,,,Polishing Equip.,A
+PEC,24,24,Loaves Polishing Equip.,425.6,361.3,241,,,,,,,Polishing Equip.,A
+PEC,31,31,Bellowing Polishing Equip.,502.6,451.3,400,,,,,,,Polishing Equip.,A
+PEC,36,36,Duplicator Polishing Equip.,544.3,465.4,409,,,,,,,Polishing Equip.,A
+PEC,40,40,Subclasses Polishing Equip.,282.5,239,210,,,,,,,Polishing Equip.,A
+PEC,42,42,Concentrators Polishing Equip.,584.6,524.9,472,,,,,,,Polishing Equip.,A
+PEC,32,32,Embodying Cleaning Supplies,250.9,213.5,207.1,TPC West,,,,,,Cleaning Supplies,B
+PEC,9,9,Defeated Tray Supplies,559.7,476.9,448.3,TPC West,,,,,,Tray Supplies,B
+PEC,10,10,Chartable Photo Equip.,410.2,347.4,295,,,,,,,Photo Chemicals,C
+PEC,14,14,Travelings Photo Chemicals,274.4,242,225.1,TPC West,,,,,,Photo Chemicals,C
+PEC,29,29,Millimeters Flushing Chemicals,295.6,251.8,241.8,TPC East,,,,,,Flushing Chemicals,C
+PEC,25,25,Automobiles Fillers,283.8,227.6,218.5,TPC East,,,,,,Fillers,D
+PEC,38,38,Commendation Fillers,436.3,380,364.8,TPC West,,,,,,Fillers,D
+PEC,13,13,Coward Covers,429.8,349,328.1,TPC East,,,,,,Covers,D
+PEC,17,17,Sortie Covers,248.2,213.2,206.8,TPC East,,,,,,Covers,D
+PEC,41,41,Sulkiness Covers,354.3,289.8,272.4,TPC East,,,,,,Covers,D
+PEC,3,3,Tailor Jacks,509.8,429.7,399.7,TPC West,,,,,,Jacks,D
